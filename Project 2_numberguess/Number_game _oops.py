@@ -1,6 +1,6 @@
 import random
 number = random.randint(1,100)
-print (number)
+# print (number)
 class Game:
     import random
     number = random.randint(1,10)
