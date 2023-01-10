@@ -1,0 +1,4 @@
+My NAME IS SID
+I am a programmer
+I am learning python  
+My goal is to become an AI Engineer.

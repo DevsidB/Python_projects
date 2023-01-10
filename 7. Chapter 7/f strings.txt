@@ -1,0 +1,8 @@
+f strings are the strings that are used to add the variable as a string in the print option
+eg:
+
+num= 2 
+print(f" The number entered by you is {num})
+ 
+# this will return the number 
+enrterd in variable as a string in print 

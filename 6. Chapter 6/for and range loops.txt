@@ -1,0 +1,8 @@
+friends= ["sid","harry","sanket","ajay"]
+ for i in friends:
+	print ("hello" + i ) 
+# this i over here can be replaced by any variable
+for name in friends:
+	print ("hello" + name ) 
+
+output will print all the names from the list friends
